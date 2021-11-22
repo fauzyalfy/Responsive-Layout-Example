@@ -1,0 +1,20 @@
+/* Mobile */
+
+@media all and (max-width: 670px) {
+  .container {
+    width: 80vw;
+    height: 102vh;
+  }
+  .item3 {
+    margin-top: -310px;
+    margin-left: 20px;
+  }
+  .item4 {
+    margin-top: -310px;
+    margin-left: -113px;
+  }
+  .item2 {
+    margin-top: 495px;
+    margin-left: -247px;
+  }
+}
